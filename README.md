@@ -17,3 +17,5 @@ pip install -r requirements.txt
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 # Cách sử dụng
 python BTL.py
+# Nhược điểm khi sử dụng OCR
+Nhiều lúc đọc mã captcha không được chính xác
