@@ -50,7 +50,8 @@ def check_captcha():
     driver.quit()
 
 
-schedule.every().day.at("15:53").do(check_captcha)
+schedule.every().day.at("06:00").do(check_captcha)
+schedule.every().day.at("12:00").do(check_captcha)
 
 
 while True:
