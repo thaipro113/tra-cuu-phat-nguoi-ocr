@@ -15,7 +15,6 @@ cd tra-cuu-phat-nguoi-ocr
 pip install -r requirements.txt
 # Cài đặt Tesseract OCR
 pip install selenium pillow pytesseract schedule
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 # 🚀 Tính năng
 
 - Tự động mở trình duyệt, điền biển số và loại xe.
