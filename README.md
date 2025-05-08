@@ -40,5 +40,4 @@ submit_form(): Gửi form với mã captcha đã giải mã.
 check_result(): Kiểm tra kết quả trả về từ website.
 
 check_captcha(): Hàm chính gọi các bước trên.
-# Cách sử dụng
-python BTL.py
+
