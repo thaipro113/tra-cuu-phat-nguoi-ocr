@@ -1,4 +1,4 @@
-# tra-cuu-phat-nguoi-ocr
+# Tra Cứu Phạt Nguội Bằng OCR Tự Động
 Tự động tra cứu phương tiện vi phạm giao thông và OCR captcha
 # Yêu cầu hệ thống
 Python >= 3.8
